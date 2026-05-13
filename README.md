@@ -11,8 +11,8 @@ A aplicação utiliza uma arquitetura baseada em **3 Camadas (MVC)** para garant
 3.  **Camada de Acesso a Dados (Repositories):** Interface com o banco de dados utilizando Spring Data JPA para persistência e Flyway para migrações versionadas.
 
 ### Diagrama de Arquitetura
-![Arquitetura do Sistema](./)
-*(Nota: Substitua o link acima pela imagem de arquitetura gerada durante o processo de desenvolvimento)*
+![Arquitetura do Sistema](./bookin-room-architeture.jpg)
+
 
 ## 🛠️ Tecnologias Utilizadas
 
